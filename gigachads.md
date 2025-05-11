@@ -55,8 +55,13 @@ https://ads.vk.ru/
 https://ads.vk.ru/news
 
 - При нажатии на кнопку "Подробнее" открывается подробное описание новости.
+![image](https://github.com/user-attachments/assets/f1040030-f6e6-4bd4-a4a6-754267bb3115)
+
 - При нажатии на карточку новости открывается ее полный текст.
+![image](https://github.com/user-attachments/assets/b54dd2bf-6638-4dea-9e40-ef3e9ad82dc0)
+
 - При нажатии на номер страницы открывается эта страница новостей.
+![image](https://github.com/user-attachments/assets/fcb0ccb8-3428-4004-8f74-409a2deb7b0a)
 
 # Полезные материалы
 
@@ -71,18 +76,27 @@ https://ads.vk.ru/insights
 https://ads.vk.ru/events
 
 - При нажатии на кнопку "Подробнее" открывается подробное описание мероприятия.
+![image](https://github.com/user-attachments/assets/e6b4fc5f-3f4a-4a3b-9031-0023657839e6)
+
 
 # Документы
 
 https://ads.vk.ru/documents
 
 - При нажатии на карточку документа открывается его полный текст.
+![image](https://github.com/user-attachments/assets/52dbf87a-ae14-4051-89e8-fb34ad0c1acd)
+
 
 # Кейсы
 
 https://ads.vk.ru/cases
 
 - При нажатии на кнопку "Подробнее" открывается подробное описание кейса.
+![image](https://github.com/user-attachments/assets/4acdb2ac-c33c-4702-a68e-038290bac49e)
+
 - При нажатии на карточку кейса открывается его полный текст.
+![image](https://github.com/user-attachments/assets/bf492e97-dc93-4cf1-a27c-51acdbca0c0f)
+
 - При нажатии на номер страницы открывается эта страница кейсов.
+![image](https://github.com/user-attachments/assets/9fd24864-b172-4803-98fc-5b2b79168b59)
 
