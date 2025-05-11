@@ -68,8 +68,14 @@ https://ads.vk.ru/news
 https://ads.vk.ru/insights
 
 - При нажатии на кнопку "Подробнее" открывается подробное описание статьи.
+![image](https://github.com/user-attachments/assets/51497fd0-0c9b-440b-bb48-9317307cb769)
+
 - При нажатии на карточку статьи открывается ее полный текст.
+![image](https://github.com/user-attachments/assets/97c0f8a7-8ce8-45e4-b08f-e73150f52e35)
+
 - При нажатии на номер страницы открывается эта страница полезных материалов.
+![image](https://github.com/user-attachments/assets/a5741d79-33f1-46a1-8692-dba5220c0920)
+
 
 # Мероприятия
 
